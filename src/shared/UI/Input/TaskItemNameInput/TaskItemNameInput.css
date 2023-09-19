@@ -1,0 +1,8 @@
+.nameInput {
+	font-size: 18px;
+	font-weight: inherit;
+
+
+	min-width: 280px;
+	width: fit-content;
+}

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaff0799-2ab3-4daf-ac31-9b5ff2cd4351" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Buttons/AddTagButton/AddTagButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Buttons/AddTagButton/AddTagButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Buttons/CreateDeskButton/CreateDeskButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Buttons/CreateDeskButton/CreateDeskButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Buttons/DeskNameButton/DeskNameButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Buttons/DeskNameButton/DeskNameButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Buttons/LittleCloseButton/LittleCloseButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Buttons/LittleCloseButton/LittleCloseButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Buttons/ToggleSiderButton/ToggleSiderButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Buttons/ToggleSiderButton/ToggleSiderButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Holder/TagsHolder/MyTag.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Holder/TagsHolder/MyTag.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Holder/TagsHolder/TagsHolder.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Holder/TagsHolder/TagsHolder.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Holder/UntilDateHolder/UntilDateHolder.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Holder/UntilDateHolder/UntilDateHolder.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Input/TaskItemNameInput/TaskItemNameInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Input/TaskItemNameInput/TaskItemNameInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Lists/DeskList/DeskListItem/DeskListItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Lists/DeskList/DeskListItem/DeskListItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Lists/TaskGroupList/TaskGroupItem/TaskGroupItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Lists/TaskGroupList/TaskGroupItem/TaskGroupItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Lists/TaskGroupList/TaskGroupList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Lists/TaskGroupList/TaskGroupList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Lists/TaskList/TaskItem/TaskItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Lists/TaskList/TaskItem/TaskItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/UI/Lists/TaskList/TaskList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/UI/Lists/TaskList/TaskList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/auth/RefreshRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/auth/RefreshRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/auth/ReqistrationRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/auth/ReqistrationRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/deskMembers/GetAllDeskMemberRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/deskMembers/GetAllDeskMemberRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/deskMembers/GetDeskMemberByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/deskMembers/GetDeskMemberByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/deskMembers/IsDeskMemberRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/deskMembers/IsDeskMemberRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/deskMembers/UpdateDeskMemberByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/deskMembers/UpdateDeskMemberByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/desks/GetAllDeskRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/desks/GetAllDeskRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/desks/GetAllDesksForUserRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/desks/GetAllDesksForUserRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/desks/GetDeskByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/desks/GetDeskByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/desks/UpdateDeskByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/desks/UpdateDeskByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/roles/GetAllRoleRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/roles/GetAllRoleRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/roles/GetRoleByKeyRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/roles/GetRoleByKeyRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/tags/GetAllTagByDesk.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/tags/GetAllTagByDesk.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/tags/GetAllTagRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/tags/GetAllTagRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/tags/GetTagByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/tags/GetTagByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/tags/UpdateTagByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/tags/UpdateTagByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/taskGroups/GetAllTaskGroupByDeskRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/taskGroups/GetAllTaskGroupByDeskRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/tasks/GetAllByTaskGroupRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/tasks/GetAllByTaskGroupRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/tasks/GetAllTaskRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/tasks/GetAllTaskRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/tasks/GetTaskByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/tasks/GetTaskByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/tasks/UpdateTaskByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/tasks/UpdateTaskByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/users/GetAllUserRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/users/GetAllUserRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/users/GetCurrentUserRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/users/GetCurrentUserRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/requests/users/GetUserByIdRequest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/requests/users/GetUserByIdRequest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/states/CurrentDesk.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/states/CurrentDesk.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/states/CurrentDeskMember.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/states/CurrentDeskMember.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/api/states/CurrentUser.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/api/states/CurrentUser.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/types/interfaces/DTO/TaskDTO.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/types/interfaces/DTO/TaskDTO.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/widgets/MyContent/MyContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/MyContent/MyContent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/widgets/MyHeader/MyHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/MyHeader/MyHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/widgets/MySider/MySider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/MySider/MySider.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4ca320a9-17c0-45bc-ad64-af41edcea12b" />
+        <option name="url" value="https://github.com/D3FiX4M/front-my-tasker.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SWoaKtVyBOFHs03lermB470wQK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "content",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "ts.external.directory.path": "P:\\MyOwnProjects\\TypeScript\\frontend-my-tasker\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaff0799-2ab3-4daf-ac31-9b5ff2cd4351" name="Changes" comment="" />
+      <created>1689271761053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689271761053</updated>
+      <workItem from="1689271762147" duration="161000" />
+      <workItem from="1689271929747" duration="70000" />
+      <workItem from="1689272029586" duration="7000" />
+      <workItem from="1690315388829" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="content" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

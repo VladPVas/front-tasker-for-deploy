@@ -1,0 +1,9 @@
+.tagHolder {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: baseline;
+
+	min-width: 280px;
+	width: fit-content;
+}

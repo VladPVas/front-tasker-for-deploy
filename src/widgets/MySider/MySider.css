@@ -1,0 +1,12 @@
+.mySider {
+	display: flex;
+	flex-direction: column;
+	justify-content: baseline;
+	
+	height: inherit;
+	
+	padding: 5px;
+
+	background-color: transparent;
+
+}

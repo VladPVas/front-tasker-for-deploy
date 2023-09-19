@@ -1,0 +1,9 @@
+.lower {
+
+	max-height: fit-content;
+	height: 100vh;
+}
+
+.main {
+	min-width: fit-content;
+}

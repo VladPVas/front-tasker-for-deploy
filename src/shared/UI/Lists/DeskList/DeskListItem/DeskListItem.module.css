@@ -1,0 +1,15 @@
+.deskListItem {
+	width: 200px;
+	padding: 0px !important;
+}
+
+.buttons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+}
+
+.mainButton {
+	width: inherit;
+}

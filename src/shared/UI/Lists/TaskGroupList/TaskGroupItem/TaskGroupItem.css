@@ -1,0 +1,21 @@
+.taskGroupItem {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+
+	border: 2px solid grey;
+	
+	min-width: 300px;
+	width: fit-content;
+
+	margin: 5px;
+	padding: 5px;
+
+	background: #FFFF;
+}
+
+.label {
+	width: fit-content;
+	margin: 5px;
+}
